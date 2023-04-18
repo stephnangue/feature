@@ -8,3 +8,7 @@ yum install python3-pip
 #install Ansible
 python3 -m pip -V
 python3 -m pip install --user ansible
+
+#install robot framework
+python3 -m pip -V
+python3 -m pip install robotframework
